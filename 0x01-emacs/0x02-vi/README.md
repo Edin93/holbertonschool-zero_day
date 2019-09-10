@@ -1,0 +1,3 @@
+# Vi
+- learning what is vi, who made it...
+- start working with it.
