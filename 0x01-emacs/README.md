@@ -1,7 +1,7 @@
-#About project
+# About project
 - this project is about discovering Emacs, getting to know some of its commands and to start working with it.
 
-#What is Emacs?
+# What is Emacs?
 - a class of cross-platform highly customizable text editors.
 - it includes features to help you write in many different human languages and programming/markup languages.
 - it provides tools for compiling, running and testing programs.
