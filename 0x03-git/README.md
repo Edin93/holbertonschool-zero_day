@@ -1,2 +1,3 @@
 # Git
-- learning about git and how to use it.
+- learning source code management.
+- learning git commands.
