@@ -4,3 +4,4 @@ Things done so far:
 - Started working with git.
 - simple changes.
 - peer learning.
+- learning linux, emacs, vim.
